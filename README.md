@@ -1,7 +1,7 @@
 # TEAM ID : PNT2022TMID29992
 
-# IBM-Project-24021-1659935657
-# Global Sales Data Analytics
+# GITHUB ID-24021-1659935657
+# PROJECT TITLE-Global Sales Data Analytics
 
 TEAM MEMBERS
 
